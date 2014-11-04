@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'main.ui'
-#
-# Created: Mon Nov  3 17:33:00 2014
-# by: PyQt5 UI code generator 5.3.2
-#
-# WARNING! All changes made in this file will be lost!
-
 from PyQt5 import QtCore, QtWidgets
 from PyQt5.QtWidgets import QDialog, QMessageBox
 import goslate

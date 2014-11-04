@@ -7,7 +7,7 @@ from speech_translator.speech.language import Language
 
 
 class TextToSpeech(object):
-    def __init__(self, language=Language.get_festival_language('russian')):
+    def __init__(self, language='russian'):
         self._festival_bin = "festival"
         self.language = language
 
